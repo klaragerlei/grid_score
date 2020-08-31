@@ -25,7 +25,7 @@ some files missing from the above that are needed for it to run:
 https://simonweber@gitlab.tubit.tu-berlin.de/simonweber/general_utils
 
 
-### Hactoberfest
+## Hactoberfest
 If you are here to participate in Hacktoberfest (and get a t-shirt or plant a tree!:evergreen_tree:), make sure to check the rules and send your pull request in October https://hacktoberfest.digitalocean.com/
 
 
