@@ -12,7 +12,7 @@ Thank you!
 
 ## Links to other repositories with grid scores
 
-# Spike level grid score [10.1371/journal.pcbi.1006804]
+### Spike level grid score [10.1371/journal.pcbi.1006804]
 https://gitlab.tubit.tu-berlin.de/simonweber/gridscore
 some files missing from the above that are needed for it to run:
 https://simonweber@gitlab.tubit.tu-berlin.de/simonweber/general_utils
