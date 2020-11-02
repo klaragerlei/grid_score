@@ -25,6 +25,9 @@ https://gitlab.tubit.tu-berlin.de/simonweber/gridscore
 some files missing from the above that are needed for it to run:
 https://simonweber@gitlab.tubit.tu-berlin.de/simonweber/general_utils
 
+## Fourier based grid-tuning index
+https://senselab.med.yale.edu/ModelDB/showmodel.cshtml?model=262356#tabs-1
+
 ## List of papers with different types of grid detection
 Bootstrap ratemaps by resampling spikes with replacement instead of more standard shift in time:
 Savelli, Francesco, J. D. Luck, and James J. Knierim. 2017. “Framing of Grid Cells within and beyond Navigation Boundaries.” eLife 6 (January). https://doi.org/10.7554/eLife.21354.
@@ -37,10 +40,6 @@ Langston, Rosamund F., James A. Ainge, Jonathan J. Couey, Cathrin B. Canto, Tale
 
 Fourier‐based measure—the grid‐tuning index:
 D’Albis, Tiziano, and Richard Kempter. 2020. “Recurrent Amplification of Grid‐cell Activity.” Hippocampus 13 (October): e1005782.
-
-
-## Hactoberfest
-If you are here to participate in Hacktoberfest (and get a t-shirt or plant a tree!:evergreen_tree:), make sure to check the rules and send your pull request in October https://hacktoberfest.digitalocean.com/
 
 
 
