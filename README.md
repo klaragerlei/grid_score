@@ -35,6 +35,9 @@ Barry, C., and N. Burgess. 2017. “To Be a Grid Cell: Shuffling Procedures for 
 Compute grid scores at multiple radii from autocorrelogram:
 Langston, Rosamund F., James A. Ainge, Jonathan J. Couey, Cathrin B. Canto, Tale L. Bjerknes, Menno P. Witter, Edvard I. Moser, and May-Britt Moser. 2010. “Development of the Spatial Representation System in the Rat.” Science 328 (5985): 1576–80.
 
+Fourier‐based measure—the grid‐tuning index:
+D’Albis, Tiziano, and Richard Kempter. 2020. “Recurrent Amplification of Grid‐cell Activity.” Hippocampus 13 (October): e1005782.
+
 
 ## Hactoberfest
 If you are here to participate in Hacktoberfest (and get a t-shirt or plant a tree!:evergreen_tree:), make sure to check the rules and send your pull request in October https://hacktoberfest.digitalocean.com/
