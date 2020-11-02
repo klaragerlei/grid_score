@@ -25,7 +25,7 @@ https://gitlab.tubit.tu-berlin.de/simonweber/gridscore
 some files missing from the above that are needed for it to run:
 https://simonweber@gitlab.tubit.tu-berlin.de/simonweber/general_utils
 
-## Fourier based grid-tuning index
+### Fourier based grid-tuning index
 https://senselab.med.yale.edu/ModelDB/showmodel.cshtml?model=262356#tabs-1
 
 ## List of papers with different types of grid detection
