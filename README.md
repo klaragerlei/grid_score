@@ -1,9 +1,11 @@
 # Grid score repository
+<img src="https://user-images.githubusercontent.com/16649631/85288620-ef83c480-b48d-11ea-9904-d9dacfb3c110.jpg" width="300">
 
 ## Motivation
+Different research groups use different algorithms to identify grid cells, which leads to different classifications and overall results.
 
-- I would like to collect and implement as many grid scores as possible to be able to compare them and decide which one to use.
-- I'm very interested in why different labs use different grid scores and the reasons for choosing a given implementation so I would like to collect some opinions.
+- I would like to collect and implement different published grid scores to be able to compare them and decide which one to use.
+- I'm very interested in why different labs use different grid scores and the reasons for choosing a given implementation so I would like to collect opinions.
 
 ## Ways to contribute
 
